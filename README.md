@@ -1,12 +1,12 @@
 
 ❯ echo $FAVORITE_LANGUAGE
-CPP / PYTHON
+**CPP / PYTHON**
 
 ❯ uname -o
-Windows
+**Windows**
 
 ❯ whoami    
-Zynth9999
+**Jan Dróżdż**
 
 # Reach me at
 ❯ mail: janekboxs@outlook.com
@@ -17,9 +17,9 @@ Zynth9999
 
 🎓 **Currently studying:** Technik Programista (Software Developer) in Poland.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jandrozdz&show_icons=true&theme=radical)
+[![Zynth9999's GitHub stats](https://github-stats-extended.vercel.app/api?username=jandrozdz&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jandrozdz&layout=compact&theme=radical)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=jandrozdz&layout=compact&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ## About Me
 
