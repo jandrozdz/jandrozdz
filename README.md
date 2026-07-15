@@ -36,6 +36,4 @@ Hey! I'm a amateur photographer and experienced software developer, i like:
 - 📷 Instagram: [@janek.cr2](https://instagram.com/janek.cr2)
 - 🎵 TikTok: [@janek.cr2](https://tiktok.com/@janek.cr2)
 
----
 
-⭐️ From [Zynth9999](https://github.com/Zynth9999)
