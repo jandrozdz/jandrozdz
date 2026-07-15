@@ -23,7 +23,7 @@
 
 ## About Me
 
-Hey! I'm am amateur photographer and experienced software developer, i like:
+Hey! I'm an amateur photographer and experienced software developer, i like:
 
 - **Reverse Engineering** & **Hardware modding**
 - **Game Development**
