@@ -1,2 +1,11 @@
-# I make stuff, i make things, i also make bits flip and displays show.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zynth9999)](https://github.com/anuraghazra/github-readme-stats)
+
+    ___  ________  ________   _______   ___  __       
+   |\  \|\   __  \|\   ___  \|\  ___ \ |\  \|\  \     
+   \ \  \ \  \|\  \ \  \\ \  \ \   __/|\ \  \/  /|_   
+ __ \ \  \ \   __  \ \  \\ \  \ \  \_|/_\ \   ___  \  
+|\  \\_\  \ \  \ \  \ \  \\ \  \ \  \_|\ \ \  \\ \  \ 
+\ \________\ \__\ \__\ \__\\ \__\ \_______\ \__\\ \__\
+ \|________|\|__|\|__|\|__| \|__|\|_______|\|__| \|__|
+                                                      
+                                                      
+                                                      
