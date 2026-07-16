@@ -1,17 +1,24 @@
 
 ❯ echo $FAVORITE_LANGUAGE
+
 **CPP / PYTHON**
 
 ❯ uname -o
+
 **Windows**
 
 ❯ whoami    
+
 **Jan Dróżdż**
 
 # Reach me at
 ❯ mail: janekboxs@outlook.com
 ❯ insta: https://instagram.com/janek.cr2
 ❯ tiktok: https://tiktok.com/@janek.cr2
+
+---
+
+I made[ **quickieu.pl**oad](https://quickieu.pl/load/)
 
 ---
 
