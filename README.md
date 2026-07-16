@@ -18,7 +18,7 @@
 
 ---
 
-I made[ **quickieu.pl**oad](https://quickieu.pl/load/)
+I made [**quickieu.pl**oad](https://quickieu.pl/load/)
 
 ---
 
