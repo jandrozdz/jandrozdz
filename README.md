@@ -18,7 +18,10 @@
 
 ---
 
-I made [**quickieu.pl**oad](https://quickieu.pl/load/)
+I made:
+[**quickieu.pl**oad](https://quickieu.pl/load/) - free file sharing service
+[70D++](https://github.com/jandrozdz/70DPP) - ML Fork with QoL features like touch, recording indicator, focus stacking and more.
+
 
 ---
 
